@@ -4,3 +4,6 @@
 	url = https://github.com/DeafMic/Recognition_from_Ontology.git
 [submodule "recognition/porcupine"]
 	url = https://github.com/Picovoice/porcupine.git
+[submodule "rviz_stream"]
+	path = rviz_stream
+	url = https://github.com/DeafMic/rviz_stream.git
