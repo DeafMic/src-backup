@@ -1,0 +1,4 @@
+[submodule "human_SLAM"]
+	url = https://github.com/CarmineD8/human_SLAM.git
+[submodule "recognition/src/Recognition_from_Ontology"]
+	url = https://github.com/DeafMic/Recognition_from_Ontology.git
